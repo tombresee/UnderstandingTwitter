@@ -8,7 +8,7 @@ Understanding Twitter
 
 
 :Author:  Tom Bresee
-:Known As: Texas Tom
+:Known As: TexasTom
 :Graduate School: Michigan (Applied Data Science)
 :Focus: Advanced Social Media Analytics 
 
