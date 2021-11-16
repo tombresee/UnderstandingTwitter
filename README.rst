@@ -1,13 +1,15 @@
 
 Understanding Twitter
-##############################
+########################
 
 
 |
 |
 
 
-:University: Michigan
+:Author:  Tom Bresee
+:Known As: Texas Tom
+:Graduate School: Michigan (Applied Data Science)
 :Focus: Advanced Social Media Analytics 
 
 
